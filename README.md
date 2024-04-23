@@ -1,0 +1,1 @@
+# These are study HTML&CSS page with flex and adaptive layout
